@@ -1,7 +1,7 @@
 # V-Secure Cipher 🔐
 
 ## Project Overview
-This project is developed as part of the **Cryptography & Cybersecurity Open Elective**.
+
 
 The objective of this project is to design and implement a custom cryptographic algorithm called **V-Secure Cipher** that performs encryption and decryption using multiple security layers.
 
